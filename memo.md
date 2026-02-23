@@ -27,3 +27,8 @@ https://ja.react.dev/learn/tutorial-tic-tac-toe
 - 過去のデータを再利用できる
 - イミュータブルにしておくことで再レンダーをスキップすることが容易にできる
 https://ja.react.dev/reference/react/memo
+
+### キーについて
+> key は React における、特別に予約されたプロパティ。
+key は React が自動的に使用して、どのコンポーネントを更新するかを自動的に決定する。
+key はグローバルに一意である必要はなく、コンポーネントとその兄弟間で一意であれば十分。
