@@ -11,3 +11,6 @@ handleClick -> イベントハンドラ(イベントに応じて実行される�
 https://ja.react.dev/learn/responding-to-events
 
 > 慣習的に、イベントハンドラは handle の後ろにイベントの名称をつなげた名前にすることが一般的です。onClick={handleClick}、onMouseEnter={handleMouseEnter} などがよく見られます。
+
+### state
+状態を記憶するためのもの
